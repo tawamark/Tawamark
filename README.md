@@ -14,7 +14,8 @@
 <div style="display: inline_block"><br/>
     <img height="90px" width="90px"align="center" alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
     <img height="90px" width="90px"align="center" alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+          
 </div><br/>
 
 ### Curiosidades
