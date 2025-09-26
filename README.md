@@ -20,7 +20,7 @@
 
 ### Sobre mim
 - Cursando **Ciência da Computação**
-- Aprimorando diariamente **Laravel (10/11)**, **Blade + Tailwind** e **MySQL**
+- Aprimorando diariamente **Laravel 10**, **Blade + Tailwind** e **MySQL**
 - Gosto de código simples, responsivo e fácil de manter
 
 ---
