@@ -41,12 +41,3 @@
 > Gosto de games, café forte e interfaces bem polidas.
 
 ---
-
-### Estatísticas
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tawamark&show_icons=true&theme=dracula&count_private=true"/>
-  <img height="170" src="https://streak-stats.demolab.com?user=tawamark&theme=dracula"/>
-</p>
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawamark&layout=compact&theme=dracula"/>
-</p>
