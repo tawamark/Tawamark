@@ -42,36 +42,3 @@ I'm currently building projects and expanding my knowledge in low-level programm
 <img src="https://skillicons.dev/icons?i=c,cpp,linux,git,github,vscode" />
 
 </div>
-
----
-
-## Learning Roadmap
-
-```text
-C
-│
-├── Fundamentals
-├── Pointers & Memory Management
-├── Data Structures
-├── File Handling
-└── Advanced C
-     │
-     ▼
-C++
-│
-├── Object-Oriented Programming
-├── STL
-├── Modern C++
-└── Algorithms
-     │
-     ▼
-Embedded Systems
-│
-├── Electronics Fundamentals
-├── Arduino
-├── STM32
-├── ARM Microcontrollers
-└── FreeRTOS
-     │
-     ▼
-Robotics
