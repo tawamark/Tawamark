@@ -1,10 +1,10 @@
-<div align="center">
+ <div align="center">
 
 # Thauan Kerber
 
-### Computer Science Student · C/C++ · Embedded Systems · Robotics
+### Laravel Developer · Backend Engineering · Web Applications
 
-Building a strong foundation in systems programming, embedded development and robotics.
+Building scalable, secure and efficient web applications with Laravel and modern technologies.
 
 </div>
 
@@ -12,26 +12,29 @@ Building a strong foundation in systems programming, embedded development and ro
 
 ## About Me
 
-I'm a Computer Science student focused on **C and C++**, with a growing interest in **embedded systems, microcontrollers and robotics**.
+I'm a **Laravel Developer** and **Computer Science student**, specializing in backend development and building complete web applications.
 
-My goal is to understand software beyond high-level applications — exploring how code interacts with memory, hardware and real-world systems.
+My experience includes designing and developing **RESTful APIs, database architectures, business management systems and third-party integrations**.
 
-I'm currently building projects and expanding my knowledge in low-level programming, embedded development and computer engineering concepts.
+I work with the entire application lifecycle, from system architecture and development to deployment, infrastructure management and performance optimization.
+
+I'm passionate about writing clean, maintainable code and transforming complex business requirements into reliable software solutions.
 
 ---
 
 ## Current Focus
 
-- C programming
-- C++ programming
-- Data Structures & Algorithms
-- Memory Management & Pointers
-- Linux development environment
-- Embedded Systems
-- Microcontrollers
-- STM32
-- FreeRTOS
-- Robotics
+- Laravel & PHP Development
+- Backend Architecture
+- RESTful APIs & Integrations
+- MySQL & Database Optimization
+- Software Architecture & Design Patterns
+- Authentication & Application Security
+- Queues, Jobs & Background Processing
+- Redis & Caching
+- Docker & Linux
+- CI/CD & Automated Deployments
+- Cloud Infrastructure & DevOps
 
 ---
 
@@ -39,6 +42,6 @@ I'm currently building projects and expanding my knowledge in low-level programm
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,linux,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=laravel,php,mysql,redis,docker,linux,nginx,git,github,githubactions,cloudflare,vscode" />
 
 </div>
