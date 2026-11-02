@@ -4,7 +4,7 @@
 
 ### Laravel Developer | PHP & Backend Engineering
 
-Designing and developing reliable backend systems, APIs and business applications with Laravel.
+Developing reliable backend systems, RESTful APIs and business applications with Laravel.
 
 </div>
 
@@ -12,32 +12,31 @@ Designing and developing reliable backend systems, APIs and business application
 
 ## About Me
 
-I'm a **Laravel Developer** and **Computer Science undergraduate** specializing in backend development with **PHP and the Laravel ecosystem**.
+I'm a **Laravel Developer** and **Computer Science undergraduate** focused on backend development with **PHP and Laravel**.
 
 My professional experience includes developing and maintaining **business applications, RESTful APIs, relational databases and third-party integrations**.
 
-I work across the application lifecycle, from backend architecture and database design to asynchronous processing, deployment and production infrastructure.
+I work across the application lifecycle, from backend architecture and database design to asynchronous processing and production deployment.
 
-My approach emphasizes **clean code, maintainability, security and performance**, with a focus on delivering reliable solutions to real business requirements.
+My development approach prioritizes **clean code, maintainability, security and performance**, with an emphasis on building reliable software solutions for real business needs.
 
 ---
 
 ## Technical Expertise
 
-- **Laravel & PHP** - Backend development, application architecture and the Laravel ecosystem
-- **API Development** - RESTful APIs, third-party integrations and service communication
-- **Database Management** - MySQL, Eloquent ORM, data modeling and query optimization
-- **Asynchronous Processing** - Laravel Queues, Jobs, Horizon and Redis
-- **Application Security** - Authentication, authorization and access control
-- **Infrastructure & Deployment** - Docker, Linux, Nginx and production environments
+- **Laravel & PHP** - Backend development and application architecture
+- **API Development** - RESTful APIs and third-party integrations
+- **Database Engineering** - MySQL, Eloquent ORM and query optimization
+- **Asynchronous Processing** - Laravel Queues, Jobs and Redis
+- **Authentication & Authorization** - Secure access control and application security
+- **Business Applications** - Business logic, workflow automation and system integrations
 
 ---
 
 ## Technology Stack
 
-**Backend & Data**
+<div align="left">
 
 <img src="https://skillicons.dev/icons?i=laravel,php,mysql,redis" alt="Laravel, PHP, MySQL and Redis" />
-**Infrastructure & Tools**
 
-<img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,githubactions,cloudflare" alt="Docker, Linux, Nginx, Git, GitHub Actions and Cloudflare" />
+</div>
