@@ -1,10 +1,10 @@
- <div align="center">
+<div align="center">
 
 # Thauan Kerber
 
-### Laravel Developer · Backend Engineering · Web Applications
+### Laravel Developer | PHP & Backend Engineering
 
-Building scalable, secure and efficient web applications with Laravel and modern technologies.
+Designing and developing reliable backend systems, APIs and business applications with Laravel.
 
 </div>
 
@@ -12,36 +12,32 @@ Building scalable, secure and efficient web applications with Laravel and modern
 
 ## About Me
 
-I'm a **Laravel Developer** and **Computer Science student**, specializing in backend development and building complete web applications.
+I'm a **Laravel Developer** and **Computer Science undergraduate** specializing in backend development with **PHP and the Laravel ecosystem**.
 
-My experience includes designing and developing **RESTful APIs, database architectures, business management systems and third-party integrations**.
+My professional experience includes developing and maintaining **business applications, RESTful APIs, relational databases and third-party integrations**.
 
-I work with the entire application lifecycle, from system architecture and development to deployment, infrastructure management and performance optimization.
+I work across the application lifecycle, from backend architecture and database design to asynchronous processing, deployment and production infrastructure.
 
-I'm passionate about writing clean, maintainable code and transforming complex business requirements into reliable software solutions.
-
----
-
-## Current Focus
-
-- Laravel & PHP Development
-- Backend Architecture
-- RESTful APIs & Integrations
-- MySQL & Database Optimization
-- Software Architecture & Design Patterns
-- Authentication & Application Security
-- Queues, Jobs & Background Processing
-- Redis & Caching
-- Docker & Linux
-- CI/CD & Automated Deployments
-- Cloud Infrastructure & DevOps
+My approach emphasizes **clean code, maintainability, security and performance**, with a focus on delivering reliable solutions to real business requirements.
 
 ---
 
-## Technologies
+## Technical Expertise
 
-<div align="left">
+- **Laravel & PHP** - Backend development, application architecture and the Laravel ecosystem
+- **API Development** - RESTful APIs, third-party integrations and service communication
+- **Database Management** - MySQL, Eloquent ORM, data modeling and query optimization
+- **Asynchronous Processing** - Laravel Queues, Jobs, Horizon and Redis
+- **Application Security** - Authentication, authorization and access control
+- **Infrastructure & Deployment** - Docker, Linux, Nginx and production environments
 
-<img src="https://skillicons.dev/icons?i=laravel,php,mysql,redis,docker,linux,nginx,git,github,githubactions,cloudflare,vscode" />
+---
 
-</div>
+## Technology Stack
+
+**Backend & Data**
+
+<img src="https://skillicons.dev/icons?i=laravel,php,mysql,redis" alt="Laravel, PHP, MySQL and Redis" />
+**Infrastructure & Tools**
+
+<img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,githubactions,cloudflare" alt="Docker, Linux, Nginx, Git, GitHub Actions and Cloudflare" />
